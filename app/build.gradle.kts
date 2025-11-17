@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace = "com.rudraksh.edgeviwerr"
+    namespace = "com.aarohi.edgeviwerr"
     compileSdk {
         version = release(36)
     }
